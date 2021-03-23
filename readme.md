@@ -1,0 +1,1 @@
+A mobile streaming app for Movies in cinema's database
